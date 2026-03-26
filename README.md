@@ -2,7 +2,7 @@
 
 **PhD Researcher (Embedded AI / FPGA Acceleration) · Embedded Systems & HW/SW Co-design**
 
-Doctoral student at **Mälardalen University (MDU)** in the **Division of Intelligent Future Technologies**, research group **Heterogeneous Systems – Hardware/Software Co-design**, supervised by **Prof. Masoud Daneshtalab**.  
+Doctoral student at **Mälardalen University (MDU)**, research group **Heterogeneous Systems – Hardware/Software Co-design**.  
 I work on **efficient deep learning inference for resource-constrained embedded devices**, with a focus on **FPGA acceleration**, **fixed-point / quantization-aware deployment**, and **end-to-end edge AI realization**.
 
 ---
@@ -28,21 +28,13 @@ I work on **efficient deep learning inference for resource-constrained embedded 
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| MSc, Electronics & Communication Engineering | Egypt-Japan University of Science and Technology | 2024 |
-| BSc, Electrical & Electronics Engineering | Jomo Kenyatta University of Agriculture and Technology | 2019 |
-
----
 
 ## 📁 Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
 | [**obed-portfolio**](https://github.com/mokweri/obed-portfolio) | Personal website & profile — a central place for my background and highlights |
-| [**2560_TrainingKit**](https://github.com/mokweri/2560_TrainingKit) | Practical exercises and notes for embedded/FPGA development using a training kit |
+| [**2560_TrainingKit**](https://github.com/mokweri/2560_TrainingKit) |  An MCU based training kit for embedded systems|
 | [**VHDL_FPGA_Fundamentals**](https://github.com/mokweri/VHDL_FPGA_Fundamentals) | VHDL fundamentals and RTL implementations to build strong FPGA skills |
 
 ---
