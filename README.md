@@ -29,16 +29,6 @@ I work on **efficient deep learning inference for resource-constrained embedded 
 ---
 
 
-## 📁 Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [**obed-portfolio**](https://github.com/mokweri/obed-portfolio) | Personal website & profile — a central place for my background and highlights |
-| [**2560_TrainingKit**](https://github.com/mokweri/2560_TrainingKit) |  An MCU based training kit for embedded systems|
-| [**VHDL_FPGA_Fundamentals**](https://github.com/mokweri/VHDL_FPGA_Fundamentals) | VHDL fundamentals and RTL implementations to build strong FPGA skills |
-
----
-
 ## 🛠️ Tech Interests
 
 **Embedded / Hardware:** FPGA · VHDL/RTL · Fixed-point arithmetic · HW/SW co-design  
